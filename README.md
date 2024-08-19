@@ -1,6 +1,8 @@
 # fpga-mandelbrot
 A simple Verilog implementation of the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) explorer for the PYNQ-Z2 development board. Final project for the EEE3313, Fall 2023 course at Yonsei University.
 
+![mandelbrot](image.jpg)
+
 ## Specifications
 - 800x600p60 HDMI display
 - 26-bit fixed-point architecture
